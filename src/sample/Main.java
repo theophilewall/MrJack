@@ -14,9 +14,13 @@ public class Main extends Application {
         primaryStage.setTitle("Hello World");
         primaryStage.setScene(new Scene(root, 300, 275));
         primaryStage.show();
+<<<<<<< Updated upstream
         //test commit
         //coucou !
         //coomit test 2
+=======
+        primaryStage.show();
+>>>>>>> Stashed changes
     }
 
 
