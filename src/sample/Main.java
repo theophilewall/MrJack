@@ -18,9 +18,8 @@ public class Main extends Application {
         //coomit test 2
         primaryStage.show();
         // test theophile
-        //jsadljsldajlksdjlkjsad
         //test du commit 2
-        //est ce que ca va bug ????
+        //test du commit 3
     }
 
 
